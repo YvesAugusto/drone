@@ -13,7 +13,6 @@ from drone.config import VIDEO_URL, FILENAME, DRONE_ID
 from drone.utils import make_logger, read_qrcode
 
 
-
 logger_ = make_logger()
 
 try:
