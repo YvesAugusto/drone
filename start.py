@@ -1,17 +1,15 @@
 import threading
 import time
 from typing import Any
-
+import json
 import cv2
 import numpy as np
 import pyboof as pb
 import websocket
 from websocket import WebSocket, create_connection
 
-from drone.tello import Tello
 from drone.config import VIDEO_URL, FILENAME, DRONE_ID
 from drone.utils import make_logger, read_qrcode
-
 
 logger_ = make_logger()
 
@@ -21,10 +19,6 @@ except:
     logger_.error("Erro na geração de detector pyboof")
     time.sleep(120)
     exit(1)
-
-me = Tello()
-me.connect()
-me.streamon()
 
 state: dict[str, Any] = {
     "capture_qrcode": False,
@@ -68,6 +62,8 @@ def message_exchanges(ws: WebSocket):
             lectures: dict = read_qrcode(detector, logger_, FILENAME, frame, request_id)
             logger_.info("Lectures: {}".format(lectures))
 
+            ws.send(json.dumps(lectures))
+
         except:
             state["connected"] = False
             return
@@ -78,7 +74,7 @@ state["connected"] = True
 while state["connected"]:
 
     websocket.enableTrace(True)
-    ws: WebSocket = create_connection("ws://localhost:8001/ws")
+    ws: WebSocket = create_connection("ws://localhost:8001/capture/ws")
 
     frame_t = threading.Thread(target=frame_reader)
     frame_ex = threading.Thread(target=message_exchanges, args=(ws,))
