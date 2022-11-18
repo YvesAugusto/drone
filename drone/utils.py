@@ -8,10 +8,10 @@ import pyboof as pb
 
 def make_logger():
 
-    logger_: Logger = getLogger('doca')
+    logger_: Logger = getLogger('drone')
     logger_.setLevel(DEBUG)
 
-    fh = FileHandler('doca.log')
+    fh = FileHandler('drone.log')
     fh.setLevel(DEBUG)
 
     formatter = Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
