@@ -1,8 +1,0 @@
-2022-11-09 10:04:03,743 - doca - INFO - Efetuando captura...
-2022-11-09 10:04:03,743 - doca - INFO - Shape da imagem: (480, 640, 3)
-2022-11-09 10:04:03,890 - doca - INFO - Capture took 0.039075613021850586s
-2022-11-09 10:04:03,895 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
-2022-11-09 10:04:13,042 - doca - INFO - Efetuando captura...
-2022-11-09 10:04:13,043 - doca - INFO - Shape da imagem: (480, 640, 3)
-2022-11-09 10:04:13,122 - doca - INFO - Capture took 0.036959171295166016s
-2022-11-09 10:04:13,133 - doca - INFO - Lectures: {'request_id': 'capture', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
