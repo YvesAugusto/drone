@@ -1,15 +1,23 @@
+import json
+import os
 import threading
 import time
 from typing import Any
-import json
+
 import cv2
 import numpy as np
 import pyboof as pb
 import websocket
 from websocket import WebSocket, create_connection
 
-from drone.config import VIDEO_URL, FILENAME, DRONE_ID
+from drone.config import DRONE_ID, FILENAME, VIDEO_URL
 from drone.utils import make_logger, read_qrcode
+
+from dotenv import load_dotenv
+
+env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env.drone")
+
+load_dotenv(env_path)
 
 logger_ = make_logger()
 
@@ -74,7 +82,9 @@ state["connected"] = True
 while state["connected"]:
 
     websocket.enableTrace(True)
-    ws: WebSocket = create_connection("ws://localhost:8001/capture/ws")
+    ws: WebSocket = create_connection("ws://{}:{}/capture/ws".format(
+        os.getenv("MANAGER_HOST"), os.getenv("MANAGER_PORT")
+    ))
 
     frame_t = threading.Thread(target=frame_reader)
     frame_ex = threading.Thread(target=message_exchanges, args=(ws,))

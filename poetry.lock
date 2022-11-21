@@ -174,6 +174,17 @@ testing = ["xmlschema", "requests", "nose", "mock", "hypothesis (>=3.56)", "argc
 checkqa-mypy = ["mypy (==v0.761)"]
 
 [[package]]
+name = "python-dotenv"
+version = "0.21.0"
+description = "Read key-value pairs from a .env file and set them as environment variables"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[package.extras]
+cli = ["click (>=5.0)"]
+
+[[package]]
 name = "rel"
 version = "0.4.7"
 description = "Registered Event Listener. Provides standard (pyevent) interface and functionality without external dependencies"
@@ -221,7 +232,7 @@ test = ["websockets"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "7f799eed6ef12132cba0730a9161f83ea911e9ceec74ae8f14f7dcad9aa7d5a9"
+content-hash = "34c801bee3913c1ecd02cf297c2b64fb29c11db63e222eed395a38e4224d177c"
 
 [metadata.files]
 atomicwrites = [
@@ -416,6 +427,10 @@ pyparsing = [
 pytest = [
     {file = "pytest-5.4.3-py3-none-any.whl", hash = "sha256:5c0db86b698e8f170ba4582a492248919255fcd4c79b1ee64ace34301fb589a1"},
     {file = "pytest-5.4.3.tar.gz", hash = "sha256:7979331bfcba207414f5e1263b5a0f8f521d0f457318836a7355531ed1a4c7d8"},
+]
+python-dotenv = [
+    {file = "python-dotenv-0.21.0.tar.gz", hash = "sha256:b77d08274639e3d34145dfa6c7008e66df0f04b7be7a75fd0d5292c191d79045"},
+    {file = "python_dotenv-0.21.0-py3-none-any.whl", hash = "sha256:1684eb44636dd462b66c3ee016599815514527ad99965de77f43e0944634a7e5"},
 ]
 rel = [
     {file = "rel-0.4.7-py2.py3-none-any.whl", hash = "sha256:3d06e3630739406723944207177f163a0e615e5a46434e5288c9e63d2b9d16de"},
