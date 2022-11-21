@@ -63,8 +63,8 @@ def message_exchanges(ws: WebSocket):
                 continue
 
             ret, frame = state["video_capture"].read()
-            print(ret)
             if not ret:
+                logger_.info("Frames da câmera não estão disponíveis...")
                 continue
 
             lectures: dict = read_qrcode(detector, logger_, FILENAME, frame, request_id)
