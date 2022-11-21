@@ -58,13 +58,22 @@ def message_exchanges(ws: WebSocket):
         try:
             request_id: str = ws.recv()
 
+            payload = {
+                "message": None,
+                "error": True
+            }
+
             if not state["transmission_on"]:
+                payload["message"] = "Frames da câmera não estão disponíveis..."
                 logger_.info("Frames da câmera não estão disponíveis...")
+                ws.send(json.dumps(payload))
                 continue
 
             ret, frame = state["video_capture"].read()
             if not ret:
+                payload["message"] = "Frames da câmera não estão disponíveis..."
                 logger_.info("Frames da câmera não estão disponíveis...")
+                ws.send(json.dumps(payload))
                 continue
 
             lectures: dict = read_qrcode(detector, logger_, FILENAME, frame, request_id)

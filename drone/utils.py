@@ -73,6 +73,7 @@ def read_qrcode(detector, logger_, FILENAME, frame, request_id):
         "request_id": request_id,
         "shape": shape[:2],
         "message": "Sucesso",
-        "lectures": messages
+        "lectures": messages,
+        "error": False
     }
     return messages
