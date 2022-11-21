@@ -79,7 +79,7 @@ def message_exchanges(ws: WebSocket):
 
 state["connected"] = True
 
-while state["connected"]:
+while True:
 
     websocket.enableTrace(True)
     ws: WebSocket = create_connection("ws://{}:{}/capture/ws".format(
@@ -92,8 +92,9 @@ while state["connected"]:
     frame_t.start()
     frame_ex.start()
 
-    while True:
+    while state["connected"]:
         time.sleep(0.1)
         if not state["transmission_on"]:
             state["video_capture"] = cv2.VideoCapture(VIDEO_URL)
+            frame_t = threading.Thread(target=frame_reader)
             frame_t.start()
