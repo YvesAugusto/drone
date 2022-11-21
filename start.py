@@ -63,6 +63,7 @@ def message_exchanges(ws: WebSocket):
                 continue
 
             ret, frame = state["video_capture"].read()
+            print(ret)
             if not ret:
                 continue
 
