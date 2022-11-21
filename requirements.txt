@@ -1,0 +1,11 @@
+av==10.0.0
+imutils==0.5.4
+numpy==1.23.4; python_version >= "3.8"
+opencv-python==4.6.0.66; python_version >= "3.6"
+pillow==9.3.0; python_version >= "3.7"
+py4j==0.10.9.7; python_version >= "3"
+pyboof==0.41; python_version >= "3"
+rel==0.4.7
+six==1.16.0; python_version >= "3" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3"
+transforms3d==0.4.1; python_version >= "3.6"
+websocket-client==1.4.2; python_version >= "3.7"
