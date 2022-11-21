@@ -15,10 +15,8 @@ from drone.utils import make_logger, read_qrcode
 
 from dotenv import load_dotenv
 
-env_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/drone/.env.drone"
-print(env_path)
+env_path = "/home/pi/drone/.env.drone"
 load_dotenv(env_path)
-print(os.getenv("MANAGER_HOST"), os.getenv("MANAGER_PORT"))
 
 logger_ = make_logger()
 
