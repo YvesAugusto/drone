@@ -1,3 +1,7 @@
+av==10.0.0
+certifi==2022.9.24; python_version >= "3.7" and python_version < "4"
+charset-normalizer==2.1.1; python_version >= "3.7" and python_version < "4" and python_full_version >= "3.6.0"
+idna==3.4; python_version >= "3.7" and python_version < "4"
 imutils==0.5.4
 numpy==1.23.4; python_version >= "3.8"
 opencv-python==4.6.0.66; python_version >= "3.6"
@@ -5,7 +9,10 @@ pillow==9.3.0; python_version >= "3.7"
 py4j==0.10.9.7; python_version >= "3"
 pyboof==0.41; python_version >= "3"
 python-dotenv==0.21.0; python_version >= "3.7"
+regex==2022.10.31; python_version >= "3.6"
 rel==0.4.7
+requests==2.28.1; python_version >= "3.7" and python_version < "4"
 six==1.16.0; python_version >= "3" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3"
 transforms3d==0.4.1; python_version >= "3.6"
+urllib3==1.26.12; python_version >= "3.7" and python_full_version < "3.0.0" and python_version < "4" or python_full_version >= "3.6.0" and python_version < "4" and python_version >= "3.7"
 websocket-client==1.4.2; python_version >= "3.7"
