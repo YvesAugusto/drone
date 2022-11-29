@@ -54,14 +54,13 @@ def message_exchanges(ws: WebSocket):
 
             if not state["transmission_on"]:
                 payload["message"] = "Frames da câmera não estão disponíveis..."
-                logger_.info("Frames da câmera não estão disponíveis...")
                 ws.send(json.dumps(payload))
                 continue
 
             ret, frame = state["video_capture"].read()
             if not ret:
                 payload["message"] = "Frames da câmera não estão disponíveis..."
-                logger_.info("Frames da câmera não estão disponíveis...")
+                state["transmission_on"] = False
                 ws.send(json.dumps(payload))
                 continue
 
