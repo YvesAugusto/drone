@@ -115,7 +115,7 @@ while True:
 
     ret, frame = state["video_capture"].read()
     if not ret:
-        check_log_last_line_camera(logger_)
+        check_log_last_line_camera(logger_, VIDEO_URL)
         time.sleep(10)
         continue
 
