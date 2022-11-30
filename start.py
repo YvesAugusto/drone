@@ -96,7 +96,7 @@ logger_.info("Endpoint response: {}".format(response))
 try:
     VIDEO_URL = response["data"]["camera_uri"]
 except:
-    logger_.error("Missing key on endpoint response...")
+    logger_.error(response["message"])
     exit(1)
 
 if VIDEO_URL == "0":
