@@ -22,17 +22,6 @@ DRONE_ID = os.getenv("DRONE_ID")
 
 logger_ = make_logger()
 
-def frame_reader() -> None:
-
-    global state
-    state["transmission_on"] = True
-
-    while True:
-        ret = state["video_capture"].grab()
-        if not ret:
-            state["transmission_on"] = False
-            return
-
 def message_exchanges(ws: WebSocket):
 
     global state
@@ -73,6 +62,19 @@ def message_exchanges(ws: WebSocket):
             state["connected"] = False
             return
 
+def try_to_get_frame(capture):
+    ret, frame = capture.read()
+    if not ret:
+        check_log_last_line_camera(logger_, VIDEO_URL)
+        return None
+    try:
+        shape = frame.shape
+    except:
+        check_log_last_line_camera(logger_, VIDEO_URL)
+        return None
+    return shape
+
+
 try:
     detector = pb.FactoryFiducial(np.uint8).qrcode()
 except:
@@ -83,8 +85,7 @@ except:
 state: dict[str, Any] = {
     "capture_qrcode": False,
     "connected": False,
-    "transmission_on": False,
-    "video_capture": None
+    "transmission_on": False
 }
 
 REQUEST_URL = "http://{}:{}/subscribe/get/{}".format(
@@ -106,24 +107,20 @@ logger_.info("Trying to connect to camera: {}".format(VIDEO_URL))
 while True:
 
     try:
-        state["video_capture"] = cv2.VideoCapture(VIDEO_URL)
+        capture = cv2.VideoCapture(VIDEO_URL)
     except:
         last_line_is_error = check_log_last_line_camera(logger_)
         time.sleep(10)
         continue
-
-    ret, frame = state["video_capture"].read()
-    if not ret:
-        check_log_last_line_camera(logger_, VIDEO_URL)
+    
+    shape = try_to_get_frame(capture)
+    if shape is None:
         time.sleep(10)
-        continue
 
     break
 
 logger_.info("Successfully connected to camera {}".format(VIDEO_URL))
-frame_t = threading.Thread(target=frame_reader)
-frame_t.start()
-
+logger_.info("Image shape: {}".format(shape))
 while True:
 
     ws: WebSocket = get_websocket_connection(logger_)
@@ -133,9 +130,12 @@ while True:
     frame_ex.start()
 
     while state["connected"]:
-        time.sleep(0.1)
-        if not state["transmission_on"]:
-            state["video_capture"].release()
-            state["video_capture"] = cv2.VideoCapture(VIDEO_URL)
-            frame_t = threading.Thread(target=frame_reader)
-            frame_t.start()
+        ret, frame = capture.read()
+        if not ret:
+            check_log_last_line_camera(logger_, VIDEO_URL)
+            time.sleep(1)
+            state["transmission_on"] = False
+            capture.release()
+            capture = cv2.VideoCapture(VIDEO_URL)
+        state["transmission_on"] = True
+            
