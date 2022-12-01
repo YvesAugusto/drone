@@ -59,7 +59,6 @@ def message_exchanges(ws: WebSocket):
             ws.send(json.dumps(lectures))
 
         except:
-            state["connected"] = False
             return
 
 def try_to_get_frame(capture):
