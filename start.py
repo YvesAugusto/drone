@@ -24,7 +24,7 @@ logger_ = make_logger()
 
 def message_exchanges(ws: WebSocket):
 
-    global state, capture
+    global state, capture, ret, current_frame
 
     ws.send(str(DRONE_ID))
 
@@ -46,14 +46,13 @@ def message_exchanges(ws: WebSocket):
             ws.send(json.dumps(payload))
             continue
 
-        ret, frame = capture.read()
-        if not ret:
+        if (not ret) or current_frame is None:
             payload["message"] = "Frames da câmera não estão disponíveis..."
             state["transmission_on"] = False
             ws.send(json.dumps(payload))
             continue
 
-        lectures: dict = read_qrcode(detector, logger_, FILENAME, frame, request_id)
+        lectures: dict = read_qrcode(detector, logger_, FILENAME, current_frame, request_id)
         logger_.info("Lectures: {}".format(lectures))
 
         ws.send(json.dumps(lectures))
@@ -122,6 +121,10 @@ while True:
 
 logger_.info("Successfully connected to camera {}".format(VIDEO_URL))
 logger_.info("Image shape: {}".format(shape))
+
+current_frame = None
+ret = False
+
 while True:
 
     ws: WebSocket = get_websocket_connection(logger_)
@@ -139,4 +142,5 @@ while True:
             capture.release()
             capture = cv2.VideoCapture(VIDEO_URL)
         state["transmission_on"] = True
+        current_frame = frame.copy()
             
