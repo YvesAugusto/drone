@@ -24,7 +24,7 @@ logger_ = make_logger()
 
 def message_exchanges(ws: WebSocket):
 
-    global state
+    global state, capture
 
     ws.send(str(DRONE_ID))
 
@@ -46,7 +46,7 @@ def message_exchanges(ws: WebSocket):
             ws.send(json.dumps(payload))
             continue
 
-        ret, frame = state["video_capture"].read()
+        ret, frame = capture.read()
         if not ret:
             payload["message"] = "Frames da câmera não estão disponíveis..."
             state["transmission_on"] = False
