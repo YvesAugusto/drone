@@ -30,37 +30,37 @@ def message_exchanges(ws: WebSocket):
 
     while True:
 
-        # try:
-        request_id: str = ws.recv()
+        try:
+            request_id: str = ws.recv()
 
-        if request_id == "connection_test":
-            continue
+            if request_id == "connection_test":
+                continue
 
-        payload = {
-            "message": None,
-            "error": True
-        }
+            payload = {
+                "message": None,
+                "error": True
+            }
 
-        if not state["transmission_on"]:
-            payload["message"] = "Frames da câmera não estão disponíveis..."
-            ws.send(json.dumps(payload))
-            continue
+            if not state["transmission_on"]:
+                payload["message"] = "Frames da câmera não estão disponíveis..."
+                ws.send(json.dumps(payload))
+                continue
 
-        if (not ret) or current_frame is None:
-            payload["message"] = "Frames da câmera não estão disponíveis..."
-            state["transmission_on"] = False
-            ws.send(json.dumps(payload))
-            continue
+            if (not ret) or current_frame is None:
+                payload["message"] = "Frames da câmera não estão disponíveis..."
+                state["transmission_on"] = False
+                ws.send(json.dumps(payload))
+                continue
 
-        lectures: dict = read_qrcode(detector, logger_, FILENAME, current_frame, request_id)
-        logger_.info("Lectures: {}".format(lectures))
+            lectures: dict = read_qrcode(detector, logger_, FILENAME, current_frame, request_id)
+            logger_.info("Lectures: {}".format(lectures))
 
-        ws.send(json.dumps(lectures))
+            ws.send(json.dumps(lectures))
 
-        # except:
-        #     logger_.error("Disconnected from socket")
-        #     state["connected"] = False
-        #     return
+        except:
+            logger_.error("Disconnected from socket")
+            state["connected"] = False
+            return
 
 def try_to_get_frame(capture):
     ret, frame = capture.read()
