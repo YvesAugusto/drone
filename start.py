@@ -141,6 +141,7 @@ while True:
             state["transmission_on"] = False
             capture.release()
             capture = cv2.VideoCapture(VIDEO_URL)
+            continue
         state["transmission_on"] = True
         current_frame = frame.copy()
             
