@@ -18,9 +18,12 @@ from websocket import WebSocket
 from drone.utils import (ask_info_to_manager, check_log_last_line_camera,
                          get_websocket_connection, make_logger, read_qrcode)
 
+logger_ = make_logger()
+
 DRONE_ID = os.getenv("DRONE_ID")
 
-logger_ = make_logger()
+logger_.info("DRONE_ID: {}".format(DRONE_ID))
+
 
 def message_exchanges(ws: WebSocket):
 
