@@ -136,7 +136,7 @@ while True:
         ret, frame = capture.read()
         if not ret:
             check_log_last_line_camera(logger_, VIDEO_URL)
-            time.sleep(1)
+            time.sleep(5)
             state["transmission_on"] = False
             capture.release()
             capture = cv2.VideoCapture(VIDEO_URL)
