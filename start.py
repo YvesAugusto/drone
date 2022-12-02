@@ -22,7 +22,7 @@ logger_ = make_logger()
 
 DRONE_ID = os.getenv("DRONE_ID")
 
-logger_.info("DRONE_ID: {}".format(DRONE_ID))
+logger_.info("DRONE_ID: {}, env: {}".format(DRONE_ID, ENV_PATH))
 
 
 def message_exchanges(ws: WebSocket):
