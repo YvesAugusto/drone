@@ -121,7 +121,7 @@ def check_log_last_line(
     tries = MATCH.groupdict()["tries"]
     REPLACE_MESSAGE = replace_string.format(request_string, int(tries) + 1)
 
-    del lines[-1]
+    lines = lines[:-1]
 
     open(LOG_PATH, 'w').writelines(lines)
     logger.error(REPLACE_MESSAGE)
