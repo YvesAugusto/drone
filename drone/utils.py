@@ -123,7 +123,9 @@ def check_log_last_line(
 
     lines = lines[:-1]
 
-    open(LOG_PATH, 'w').writelines(lines)
+    f = open(LOG_PATH, 'w')
+    f.writelines(lines)
+    f.close()
     logger.error(REPLACE_MESSAGE)
 
     return
