@@ -143,7 +143,7 @@ def ask_info_to_manager(logger, request_string):
     while True:
 
         try:
-            response = requests.get(request_string).json()
+            response = requests.get(request_string, timeout=5).json()
 
         except:
             check_log_last_line(
