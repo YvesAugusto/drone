@@ -1,5 +1,4 @@
 /.vscode
 /frame.jpg
 __pycache__
-drone.log
 .env.drone

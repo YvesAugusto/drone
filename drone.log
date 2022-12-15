@@ -1,0 +1,852 @@
+2022-11-09 10:04:03,743 - doca - INFO - Efetuando captura...
+2022-11-09 10:04:03,743 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-09 10:04:03,890 - doca - INFO - Capture took 0.039075613021850586s
+2022-11-09 10:04:03,895 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-09 10:04:13,042 - doca - INFO - Efetuando captura...
+2022-11-09 10:04:13,043 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-09 10:04:13,122 - doca - INFO - Capture took 0.036959171295166016s
+2022-11-09 10:04:13,133 - doca - INFO - Lectures: {'request_id': 'capture', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 14:58:06,460 - doca - INFO - Efetuando captura...
+2022-11-18 14:58:06,461 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 14:58:06,669 - doca - INFO - Capture took 0.05521726608276367s
+2022-11-18 14:58:06,675 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 14:59:40,265 - doca - INFO - Efetuando captura...
+2022-11-18 14:59:40,266 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 14:59:40,444 - doca - INFO - Capture took 0.046545982360839844s
+2022-11-18 14:59:40,454 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:00:25,987 - doca - INFO - Efetuando captura...
+2022-11-18 15:00:25,987 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:00:26,164 - doca - INFO - Capture took 0.06042766571044922s
+2022-11-18 15:00:26,170 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:13:39,800 - doca - INFO - Efetuando captura...
+2022-11-18 15:13:39,801 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:13:39,980 - doca - INFO - Capture took 0.05254626274108887s
+2022-11-18 15:13:39,985 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:16:25,280 - doca - INFO - Efetuando captura...
+2022-11-18 15:16:25,281 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:16:25,453 - doca - INFO - Capture took 0.05294322967529297s
+2022-11-18 15:16:25,462 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:16:42,068 - doca - INFO - Efetuando captura...
+2022-11-18 15:16:42,068 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:16:42,128 - doca - INFO - Capture took 0.030401945114135742s
+2022-11-18 15:16:42,137 - doca - INFO - Lectures: {'request_id': 'ZIE3U2WX3XHV4XYW', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:18:58,728 - doca - INFO - Efetuando captura...
+2022-11-18 15:18:58,728 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:18:58,932 - doca - INFO - Capture took 0.05700230598449707s
+2022-11-18 15:18:58,946 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:19:05,784 - doca - INFO - Efetuando captura...
+2022-11-18 15:19:05,784 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:19:05,873 - doca - INFO - Capture took 0.04816484451293945s
+2022-11-18 15:19:05,879 - doca - INFO - Lectures: {'request_id': 'LD02NVGQHH7AJD9I', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:19:37,192 - doca - INFO - Efetuando captura...
+2022-11-18 15:19:37,192 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:19:37,373 - doca - INFO - Capture took 0.04831886291503906s
+2022-11-18 15:19:37,381 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:20:18,646 - doca - INFO - Efetuando captura...
+2022-11-18 15:20:18,646 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:20:18,809 - doca - INFO - Capture took 0.05927324295043945s
+2022-11-18 15:20:18,814 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:20:24,750 - doca - INFO - Efetuando captura...
+2022-11-18 15:20:24,750 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:20:24,803 - doca - INFO - Capture took 0.022338390350341797s
+2022-11-18 15:20:24,809 - doca - INFO - Lectures: {'request_id': '0LNELLOAW8SDXAWF', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:22:27,768 - doca - INFO - Efetuando captura...
+2022-11-18 15:22:27,768 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:22:27,912 - doca - INFO - Capture took 0.037052154541015625s
+2022-11-18 15:22:27,916 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:22:43,096 - doca - INFO - Efetuando captura...
+2022-11-18 15:22:43,096 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:22:43,166 - doca - INFO - Capture took 0.04521965980529785s
+2022-11-18 15:22:43,175 - doca - INFO - Lectures: {'request_id': '6Z779UAE0NUXLHT1', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:23:17,976 - doca - INFO - Efetuando captura...
+2022-11-18 15:23:17,976 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:23:18,016 - doca - INFO - Capture took 0.022576570510864258s
+2022-11-18 15:23:18,023 - doca - INFO - Lectures: {'request_id': 'F2UDE5G4JBOL0X2E', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:24:04,068 - doca - INFO - Efetuando captura...
+2022-11-18 15:24:04,068 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:24:04,100 - doca - INFO - Capture took 0.006280422210693359s
+2022-11-18 15:24:04,106 - doca - INFO - Lectures: {'request_id': 'UHCB9MOZ5VUU9E6N', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:24:12,800 - doca - INFO - Efetuando captura...
+2022-11-18 15:24:12,800 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:24:12,829 - doca - INFO - Capture took 0.010219097137451172s
+2022-11-18 15:24:12,835 - doca - INFO - Lectures: {'request_id': 'RICCQA6F3TF4JSY5', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:24:24,845 - doca - INFO - Efetuando captura...
+2022-11-18 15:24:24,846 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:24:25,025 - doca - INFO - Capture took 0.04381108283996582s
+2022-11-18 15:24:25,030 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:24:36,441 - doca - INFO - Efetuando captura...
+2022-11-18 15:24:36,442 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:24:36,503 - doca - INFO - Capture took 0.030251502990722656s
+2022-11-18 15:24:36,509 - doca - INFO - Lectures: {'request_id': '2OFG4SE3DV33Z2N5', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:24:38,541 - doca - INFO - Efetuando captura...
+2022-11-18 15:24:38,541 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:24:38,575 - doca - INFO - Capture took 0.014653682708740234s
+2022-11-18 15:24:38,581 - doca - INFO - Lectures: {'request_id': '4W8ZTKROMJ1FIX2K', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:25:17,746 - doca - INFO - Efetuando captura...
+2022-11-18 15:25:17,746 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:25:17,916 - doca - INFO - Capture took 0.04728555679321289s
+2022-11-18 15:25:17,922 - doca - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-18 15:25:26,119 - doca - INFO - Efetuando captura...
+2022-11-18 15:25:26,119 - doca - INFO - Shape da imagem: (480, 640, 3)
+2022-11-18 15:25:26,187 - doca - INFO - Capture took 0.040403127670288086s
+2022-11-18 15:25:26,205 - doca - INFO - Lectures: {'request_id': 'U0073L4H18CVGTU4', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': []}
+2022-11-22 18:55:02,215 - drone - ERROR - Could not connect to camera. Tried 6 time(s)
+2022-11-22 18:58:54,973 - drone - INFO - Trying to connect to camera: 2
+2022-11-22 19:01:22,510 - drone - INFO - Trying to connect to camera: 2
+2022-11-22 19:01:46,107 - drone - ERROR - Could not connect to camera. Tried 3 time(s)
+2022-11-22 19:01:55,062 - drone - INFO - Trying to connect to camera: 0
+2022-11-22 19:02:28,405 - drone - ERROR - Could not connect to camera. Tried 4 time(s)
+2022-11-22 19:02:32,228 - drone - INFO - Trying to connect to camera: 0
+2022-11-22 19:02:33,040 - drone - ERROR - Could not connect to camera. Tried 1 time(s)
+2022-11-22 19:02:50,806 - drone - INFO - Trying to connect to camera: 0
+2022-11-22 19:02:51,605 - drone - INFO - Successfully connected to camera 0
+2022-11-22 19:03:41,271 - drone - INFO - Trying to connect to camera: 0
+2022-11-22 19:03:42,075 - drone - INFO - Successfully connected to camera 0
+2022-11-22 19:04:10,829 - drone - INFO - Trying to connect to camera: 0
+2022-11-22 19:04:11,628 - drone - INFO - Successfully connected to camera 0
+2022-11-22 19:04:11,692 - drone - INFO - Efetuando captura...
+2022-11-22 19:04:11,692 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-22 19:04:12,038 - drone - INFO - Capture took 0.047418832778930664s
+2022-11-22 19:04:12,044 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-22 19:21:25,979 - drone - ERROR - Endpoint http://192.168.1.186:8001/subscribe/get/1 request has failed. Tried 6 time(s)
+2022-11-22 19:21:31,419 - drone - ERROR - Missing key on endpoint response...
+2022-11-22 19:21:48,860 - drone - INFO - Trying to connect to camera: 1
+2022-11-22 19:22:28,937 - drone - ERROR - Could not connect to camera. Tried 5 time(s)
+2022-11-22 19:22:31,323 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '1'}}
+2022-11-22 19:22:31,323 - drone - INFO - Trying to connect to camera: 1
+2022-11-22 19:22:41,336 - drone - ERROR - Could not connect to camera. Tried 2 time(s)
+2022-11-22 23:48:09,921 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '1'}}
+2022-11-22 23:48:09,921 - drone - INFO - Trying to connect to camera: 1
+2022-11-22 23:48:29,943 - drone - ERROR - Could not connect to camera. Tried 3 time(s)
+2022-11-22 23:48:57,324 - drone - ERROR - Endpoint http://192.168.1.186:8001/subscribe/get/1 request has failed. Tried 5 time(s)
+2022-11-26 16:13:48,257 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:13:48,258 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:13:49,109 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:13:51,980 - drone - INFO - Efetuando captura...
+2022-11-26 16:13:51,981 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:13:52,311 - drone - INFO - Capture took 0.04748368263244629s
+2022-11-26 16:13:52,320 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:15:23,110 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:15:23,111 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:15:23,924 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:15:25,390 - drone - INFO - Efetuando captura...
+2022-11-26 16:15:25,391 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:15:25,581 - drone - INFO - Capture took 0.05127573013305664s
+2022-11-26 16:15:25,588 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:18:15,064 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:18:15,065 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:18:15,857 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:18:17,143 - drone - INFO - Efetuando captura...
+2022-11-26 16:18:17,144 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:18:17,321 - drone - INFO - Capture took 0.04625129699707031s
+2022-11-26 16:18:17,330 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:20:29,343 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:20:29,344 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:20:30,151 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:20:33,944 - drone - INFO - Efetuando captura...
+2022-11-26 16:20:33,945 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:20:34,128 - drone - INFO - Capture took 0.051705121994018555s
+2022-11-26 16:20:34,133 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:22:46,093 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:22:46,094 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:22:46,894 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:22:48,547 - drone - INFO - Efetuando captura...
+2022-11-26 16:22:48,547 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:22:48,729 - drone - INFO - Capture took 0.03963923454284668s
+2022-11-26 16:22:48,735 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:24:30,361 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:24:30,361 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:24:31,169 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:24:34,761 - drone - INFO - Efetuando captura...
+2022-11-26 16:24:34,762 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:24:34,952 - drone - INFO - Capture took 0.0446929931640625s
+2022-11-26 16:24:34,957 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:40:56,417 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:40:56,417 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:40:57,234 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:40:59,255 - drone - INFO - Efetuando captura...
+2022-11-26 16:40:59,256 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:40:59,439 - drone - INFO - Capture took 0.04405045509338379s
+2022-11-26 16:40:59,446 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:41:29,388 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:41:29,389 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:41:30,191 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:41:31,588 - drone - INFO - Efetuando captura...
+2022-11-26 16:41:31,588 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:41:31,765 - drone - INFO - Capture took 0.04867362976074219s
+2022-11-26 16:41:31,771 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:42:29,375 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:42:29,375 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:42:30,170 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:42:31,912 - drone - INFO - Efetuando captura...
+2022-11-26 16:42:31,912 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:42:32,109 - drone - INFO - Capture took 0.04524731636047363s
+2022-11-26 16:42:32,114 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:47:03,435 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:47:03,435 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:47:04,233 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:47:05,897 - drone - INFO - Efetuando captura...
+2022-11-26 16:47:05,898 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:47:06,064 - drone - INFO - Capture took 0.04586458206176758s
+2022-11-26 16:47:06,071 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:47:35,070 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:47:35,070 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:47:35,871 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:47:37,620 - drone - INFO - Efetuando captura...
+2022-11-26 16:47:37,621 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:47:37,822 - drone - INFO - Capture took 0.049226999282836914s
+2022-11-26 16:47:37,827 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:47:59,378 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:47:59,378 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:48:00,174 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:48:01,433 - drone - INFO - Efetuando captura...
+2022-11-26 16:48:01,433 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:48:01,671 - drone - INFO - Capture took 0.05081009864807129s
+2022-11-26 16:48:01,679 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-26 16:54:38,723 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-26 16:54:38,723 - drone - INFO - Trying to connect to camera: 0
+2022-11-26 16:54:39,523 - drone - INFO - Successfully connected to camera 0
+2022-11-26 16:54:39,590 - drone - INFO - Efetuando captura...
+2022-11-26 16:54:39,590 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-26 16:54:39,751 - drone - INFO - Capture took 0.04126095771789551s
+2022-11-26 16:54:39,756 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 13:35:14,452 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 13:35:14,481 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 13:35:15,314 - drone - INFO - Successfully connected to camera 0
+2022-11-29 13:35:32,023 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 13:35:32,023 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 13:35:32,695 - drone - INFO - Successfully connected to camera 0
+2022-11-29 13:36:09,188 - drone - INFO - Efetuando captura...
+2022-11-29 13:36:09,188 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 13:36:09,537 - drone - INFO - Capture took 0.06689739227294922s
+2022-11-29 13:36:09,543 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 13:39:23,284 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 13:39:23,284 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 13:39:24,082 - drone - INFO - Successfully connected to camera 0
+2022-11-29 13:39:26,394 - drone - INFO - Efetuando captura...
+2022-11-29 13:39:26,394 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 13:39:26,549 - drone - INFO - Capture took 0.04336094856262207s
+2022-11-29 13:39:26,554 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 13:43:56,241 - drone - ERROR - Endpoint http://192.168.1.186:8001/subscribe/get/1 request has failed. Tried 1 time(s)
+2022-11-29 13:44:17,150 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 13:44:17,150 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 13:44:17,954 - drone - INFO - Successfully connected to camera 0
+2022-11-29 13:44:18,018 - drone - INFO - Efetuando captura...
+2022-11-29 13:44:18,019 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 13:44:18,219 - drone - INFO - Capture took 0.04970288276672363s
+2022-11-29 13:44:18,227 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 13:59:36,707 - drone - ERROR - Endpoint http://192.168.1.186:8001/subscribe/get/1 request has failed. Tried 6 time(s)
+2022-11-29 13:59:41,780 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 13:59:41,780 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 13:59:42,572 - drone - INFO - Successfully connected to camera 0
+2022-11-29 13:59:42,639 - drone - INFO - Efetuando captura...
+2022-11-29 13:59:42,639 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 13:59:42,836 - drone - INFO - Capture took 0.083099365234375s
+2022-11-29 13:59:42,844 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:00:46,241 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:00:46,242 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:00:47,027 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:00:47,448 - drone - INFO - Efetuando captura...
+2022-11-29 14:00:47,449 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:00:47,625 - drone - INFO - Capture took 0.05604720115661621s
+2022-11-29 14:00:47,631 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:12,747 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:08:12,748 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:08:13,550 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:08:13,613 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:13,614 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:13,798 - drone - INFO - Capture took 0.05030655860900879s
+2022-11-29 14:08:13,807 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:43,495 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 5 time(s)
+2022-11-29 14:08:48,549 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:48,550 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:48,616 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:48,617 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:48,663 - drone - INFO - Capture took 0.08743500709533691s
+2022-11-29 14:08:48,672 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:48,690 - drone - INFO - Capture took 0.03255891799926758s
+2022-11-29 14:08:48,700 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:48,752 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:48,753 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:48,819 - drone - INFO - Capture took 0.015526294708251953s
+2022-11-29 14:08:48,820 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:48,821 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:48,829 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:48,855 - drone - INFO - Capture took 0.016423463821411133s
+2022-11-29 14:08:48,862 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:48,956 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:48,957 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,021 - drone - INFO - Capture took 0.009782552719116211s
+2022-11-29 14:08:49,056 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,057 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,128 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,129 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,161 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,161 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,167 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,195 - drone - INFO - Capture took 0.027353286743164062s
+2022-11-29 14:08:49,198 - drone - INFO - Capture took 0.01721811294555664s
+2022-11-29 14:08:49,202 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,206 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,208 - drone - INFO - Capture took 0.005955696105957031s
+2022-11-29 14:08:49,216 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,228 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,229 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,254 - drone - INFO - Capture took 0.00844430923461914s
+2022-11-29 14:08:49,260 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,261 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,265 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,285 - drone - INFO - Capture took 0.008484601974487305s
+2022-11-29 14:08:49,291 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,296 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,297 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,317 - drone - INFO - Capture took 0.006470680236816406s
+2022-11-29 14:08:49,325 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,428 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,429 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,456 - drone - INFO - Capture took 0.008720874786376953s
+2022-11-29 14:08:49,462 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,464 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,465 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,490 - drone - INFO - Capture took 0.008279085159301758s
+2022-11-29 14:08:49,498 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,498 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,501 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,524 - drone - INFO - Capture took 0.010444879531860352s
+2022-11-29 14:08:49,530 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,533 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,533 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,560 - drone - INFO - Capture took 0.008310794830322266s
+2022-11-29 14:08:49,567 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,567 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,576 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,594 - drone - INFO - Capture took 0.0065004825592041016s
+2022-11-29 14:08:49,602 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,675 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,676 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,700 - drone - INFO - Capture took 0.005637168884277344s
+2022-11-29 14:08:49,707 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,769 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,769 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,796 - drone - INFO - Capture took 0.007197856903076172s
+2022-11-29 14:08:49,804 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,805 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,812 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,827 - drone - INFO - Capture took 0.005646228790283203s
+2022-11-29 14:08:49,833 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,836 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,837 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,862 - drone - INFO - Capture took 0.0064182281494140625s
+2022-11-29 14:08:49,868 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,873 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,873 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,901 - drone - INFO - Capture took 0.007124662399291992s
+2022-11-29 14:08:49,904 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,905 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,910 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,933 - drone - INFO - Capture took 0.007415056228637695s
+2022-11-29 14:08:49,939 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:49,941 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:49,941 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:49,964 - drone - INFO - Capture took 0.004163026809692383s
+2022-11-29 14:08:49,970 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,109 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,109 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,148 - drone - INFO - Capture took 0.014201641082763672s
+2022-11-29 14:08:50,157 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,177 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,177 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,206 - drone - INFO - Capture took 0.007722139358520508s
+2022-11-29 14:08:50,210 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,210 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,216 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,238 - drone - INFO - Capture took 0.008849620819091797s
+2022-11-29 14:08:50,246 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,345 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,345 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,370 - drone - INFO - Capture took 0.006794452667236328s
+2022-11-29 14:08:50,377 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,381 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,382 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,421 - drone - INFO - Capture took 0.011448144912719727s
+2022-11-29 14:08:50,434 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,481 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,481 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,507 - drone - INFO - Capture took 0.006342172622680664s
+2022-11-29 14:08:50,514 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,549 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,549 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,574 - drone - INFO - Capture took 0.006583213806152344s
+2022-11-29 14:08:50,581 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,721 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,721 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,754 - drone - INFO - Capture took 0.008471965789794922s
+2022-11-29 14:08:50,765 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,790 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,791 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,818 - drone - INFO - Capture took 0.008141279220581055s
+2022-11-29 14:08:50,827 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,854 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,854 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,889 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,889 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,893 - drone - INFO - Capture took 0.009830474853515625s
+2022-11-29 14:08:50,917 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,922 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,922 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:50,932 - drone - INFO - Capture took 0.01739192008972168s
+2022-11-29 14:08:50,938 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,964 - drone - INFO - Capture took 0.008537769317626953s
+2022-11-29 14:08:50,969 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:50,988 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:50,991 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,014 - drone - INFO - Capture took 0.0052700042724609375s
+2022-11-29 14:08:51,022 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,057 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,057 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,080 - drone - INFO - Capture took 0.004390716552734375s
+2022-11-29 14:08:51,087 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,126 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,126 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,171 - drone - INFO - Capture took 0.010647058486938477s
+2022-11-29 14:08:51,178 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,229 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,231 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,259 - drone - INFO - Capture took 0.010020732879638672s
+2022-11-29 14:08:51,266 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,465 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,465 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,491 - drone - INFO - Capture took 0.010148048400878906s
+2022-11-29 14:08:51,498 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,533 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,533 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,579 - drone - INFO - Capture took 0.015433549880981445s
+2022-11-29 14:08:51,586 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,602 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,602 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,627 - drone - INFO - Capture took 0.007279157638549805s
+2022-11-29 14:08:51,634 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,635 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,639 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,657 - drone - INFO - Capture took 0.0063745975494384766s
+2022-11-29 14:08:51,664 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,669 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,669 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,692 - drone - INFO - Capture took 0.007158517837524414s
+2022-11-29 14:08:51,699 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,738 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,738 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,762 - drone - INFO - Capture took 0.005376577377319336s
+2022-11-29 14:08:51,769 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,805 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,805 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,837 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,837 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,847 - drone - INFO - Capture took 0.009200572967529297s
+2022-11-29 14:08:51,868 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,875 - drone - INFO - Capture took 0.008068561553955078s
+2022-11-29 14:08:51,882 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:51,941 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:51,941 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:51,967 - drone - INFO - Capture took 0.006212949752807617s
+2022-11-29 14:08:51,978 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,009 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,009 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,049 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,050 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,052 - drone - INFO - Capture took 0.019553422927856445s
+2022-11-29 14:08:52,062 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,076 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,077 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,100 - drone - INFO - Capture took 0.0183866024017334s
+2022-11-29 14:08:52,112 - drone - INFO - Capture took 0.014124393463134766s
+2022-11-29 14:08:52,113 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,130 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,145 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,145 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,169 - drone - INFO - Capture took 0.004992008209228516s
+2022-11-29 14:08:52,179 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,213 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,213 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,233 - drone - INFO - Capture took 0.0039141178131103516s
+2022-11-29 14:08:52,282 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,381 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,381 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,430 - drone - INFO - Capture took 0.005724191665649414s
+2022-11-29 14:08:52,442 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,549 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,549 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,575 - drone - INFO - Capture took 0.009403705596923828s
+2022-11-29 14:08:52,582 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,617 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,617 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,642 - drone - INFO - Capture took 0.006321430206298828s
+2022-11-29 14:08:52,650 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,653 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,653 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,674 - drone - INFO - Capture took 0.005464792251586914s
+2022-11-29 14:08:52,681 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,721 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,721 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,746 - drone - INFO - Capture took 0.0058100223541259766s
+2022-11-29 14:08:52,755 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,857 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,860 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,885 - drone - INFO - Capture took 0.0058345794677734375s
+2022-11-29 14:08:52,892 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,925 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,925 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,947 - drone - INFO - Capture took 0.005545377731323242s
+2022-11-29 14:08:52,955 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:52,957 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,957 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,984 - drone - INFO - Capture took 0.006718873977661133s
+2022-11-29 14:08:52,993 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:52,993 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:52,994 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,016 - drone - INFO - Capture took 0.005535125732421875s
+2022-11-29 14:08:53,026 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,061 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,061 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,090 - drone - INFO - Capture took 0.009300470352172852s
+2022-11-29 14:08:53,099 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,126 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,126 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,150 - drone - INFO - Capture took 0.005396366119384766s
+2022-11-29 14:08:53,161 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,229 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,230 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,261 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,261 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,268 - drone - INFO - Capture took 0.018115758895874023s
+2022-11-29 14:08:53,282 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,291 - drone - INFO - Capture took 0.005590915679931641s
+2022-11-29 14:08:53,301 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,365 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,365 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,403 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,403 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,417 - drone - INFO - Capture took 0.008528947830200195s
+2022-11-29 14:08:53,430 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,433 - drone - INFO - Efetuando captura...
+2022-11-29 14:08:53,433 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:08:53,440 - drone - INFO - Capture took 0.015334606170654297s
+2022-11-29 14:08:53,450 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:08:53,455 - drone - INFO - Capture took 0.005011081695556641s
+2022-11-29 14:10:36,752 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:10:36,752 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:10:37,551 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:10:37,583 - drone - INFO - Efetuando captura...
+2022-11-29 14:10:37,583 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:10:37,736 - drone - INFO - Capture took 0.04492926597595215s
+2022-11-29 14:10:37,743 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:10:51,874 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 3 time(s)
+2022-11-29 14:10:56,923 - drone - INFO - Efetuando captura...
+2022-11-29 14:10:56,923 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:10:56,998 - drone - INFO - Capture took 0.0349276065826416s
+2022-11-29 14:10:57,005 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:15:29,304 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:15:29,304 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:15:30,112 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:15:30,119 - drone - INFO - Frames da câmera não estão disponíveis...
+2022-11-29 14:16:40,254 - drone - ERROR - Endpoint http://192.168.1.186:8001/subscribe/get/1 request has failed. Tried 2 time(s)
+2022-11-29 14:16:45,313 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:16:45,313 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:16:46,112 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:16:46,123 - drone - INFO - Frames da câmera não estão disponíveis...
+2022-11-29 14:40:28,043 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:40:28,044 - drone - INFO - Trying to connect to camera: 1
+2022-11-29 14:40:48,082 - drone - ERROR - [1] Could not connect to camera. Tried 3 time(s)
+2022-11-29 14:40:54,760 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:40:54,760 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:40:55,558 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:40:55,589 - drone - INFO - Efetuando captura...
+2022-11-29 14:40:55,590 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:40:55,764 - drone - INFO - Capture took 0.05292677879333496s
+2022-11-29 14:40:55,772 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:41:58,461 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 2 time(s)
+2022-11-29 14:42:03,484 - drone - INFO - Efetuando captura...
+2022-11-29 14:42:03,484 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:42:03,524 - drone - INFO - Capture took 0.01937723159790039s
+2022-11-29 14:42:03,530 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:42:45,635 - drone - INFO - Efetuando captura...
+2022-11-29 14:42:45,635 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:42:45,671 - drone - INFO - Capture took 0.009629487991333008s
+2022-11-29 14:42:45,680 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:43:00,264 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:43:00,264 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:43:00,949 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:43:01,045 - drone - INFO - Efetuando captura...
+2022-11-29 14:43:01,046 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:43:01,196 - drone - INFO - Capture took 0.04379749298095703s
+2022-11-29 14:43:01,202 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:43:33,413 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 2 time(s)
+2022-11-29 14:43:38,553 - drone - INFO - Efetuando captura...
+2022-11-29 14:43:38,553 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:43:38,616 - drone - INFO - Capture took 0.031305551528930664s
+2022-11-29 14:43:38,622 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:46:00,201 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 20 time(s)
+2022-11-29 14:46:05,242 - drone - INFO - Efetuando captura...
+2022-11-29 14:46:05,242 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:46:05,302 - drone - INFO - Capture took 0.021615028381347656s
+2022-11-29 14:46:05,313 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:29,420 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 10 time(s)
+2022-11-29 14:48:34,489 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:34,489 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:34,515 - drone - INFO - Capture took 0.005665302276611328s
+2022-11-29 14:48:34,535 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:34,556 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:34,556 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:34,579 - drone - INFO - Capture took 0.006651401519775391s
+2022-11-29 14:48:34,586 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:34,660 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:34,660 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:34,700 - drone - INFO - Capture took 0.01026773452758789s
+2022-11-29 14:48:34,709 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:34,828 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:34,828 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:34,848 - drone - INFO - Capture took 0.005815267562866211s
+2022-11-29 14:48:34,854 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:34,964 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:34,964 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:34,985 - drone - INFO - Capture took 0.007257938385009766s
+2022-11-29 14:48:34,992 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:34,997 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:34,997 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,017 - drone - INFO - Capture took 0.005015134811401367s
+2022-11-29 14:48:35,023 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,101 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,101 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,126 - drone - INFO - Capture took 0.007271766662597656s
+2022-11-29 14:48:35,135 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,168 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,168 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,189 - drone - INFO - Capture took 0.006124973297119141s
+2022-11-29 14:48:35,195 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,304 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,304 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,329 - drone - INFO - Capture took 0.009306669235229492s
+2022-11-29 14:48:35,334 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,337 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,337 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,354 - drone - INFO - Capture took 0.004160642623901367s
+2022-11-29 14:48:35,362 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,440 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,440 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,461 - drone - INFO - Capture took 0.006941795349121094s
+2022-11-29 14:48:35,472 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,508 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,508 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,526 - drone - INFO - Capture took 0.0045490264892578125s
+2022-11-29 14:48:35,532 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,608 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,608 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,629 - drone - INFO - Capture took 0.00631403923034668s
+2022-11-29 14:48:35,637 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,644 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,644 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,663 - drone - INFO - Capture took 0.005784511566162109s
+2022-11-29 14:48:35,669 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,712 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,712 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,729 - drone - INFO - Capture took 0.003350496292114258s
+2022-11-29 14:48:35,735 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,776 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,776 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,801 - drone - INFO - Capture took 0.006181001663208008s
+2022-11-29 14:48:35,810 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,912 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,912 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,928 - drone - INFO - Capture took 0.0039010047912597656s
+2022-11-29 14:48:35,933 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:35,948 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:35,948 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:35,964 - drone - INFO - Capture took 0.0030465126037597656s
+2022-11-29 14:48:35,969 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:36,356 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:36,356 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:36,381 - drone - INFO - Capture took 0.0062067508697509766s
+2022-11-29 14:48:36,387 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:36,624 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:36,625 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:36,684 - drone - INFO - Capture took 0.010791540145874023s
+2022-11-29 14:48:36,693 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:37,068 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:37,068 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:37,093 - drone - INFO - Capture took 0.004221677780151367s
+2022-11-29 14:48:37,099 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:37,136 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:37,136 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:37,153 - drone - INFO - Capture took 0.004153251647949219s
+2022-11-29 14:48:37,159 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:37,508 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:37,509 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:37,525 - drone - INFO - Capture took 0.004990100860595703s
+2022-11-29 14:48:37,533 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:37,540 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:37,540 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:37,560 - drone - INFO - Capture took 0.004787445068359375s
+2022-11-29 14:48:37,565 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:37,948 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:37,949 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:38,001 - drone - INFO - Capture took 0.007898330688476562s
+2022-11-29 14:48:38,009 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:48:38,220 - drone - INFO - Efetuando captura...
+2022-11-29 14:48:38,221 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:48:38,255 - drone - INFO - Capture took 0.003667593002319336s
+2022-11-29 14:48:38,261 - drone - INFO - Lectures: {'request_id': '', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:50:22,518 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:50:22,519 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:50:23,319 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:50:24,026 - drone - INFO - Efetuando captura...
+2022-11-29 14:50:24,026 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:50:24,189 - drone - INFO - Capture took 0.0514218807220459s
+2022-11-29 14:50:24,194 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:50:59,479 - drone - ERROR - Endpoint http://192.168.1.186:8001/subscribe/get/1 request has failed. Tried 1 time(s)
+2022-11-29 14:51:04,556 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 14:51:04,557 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 14:51:05,354 - drone - INFO - Successfully connected to camera 0
+2022-11-29 14:51:07,553 - drone - INFO - Efetuando captura...
+2022-11-29 14:51:07,553 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:51:07,742 - drone - INFO - Capture took 0.04625511169433594s
+2022-11-29 14:51:07,748 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:54:41,724 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 29 time(s)
+2022-11-29 14:54:47,023 - drone - INFO - Efetuando captura...
+2022-11-29 14:54:47,023 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:54:47,072 - drone - INFO - Capture took 0.02765631675720215s
+2022-11-29 14:54:47,080 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:56:48,173 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 22 time(s)
+2022-11-29 14:56:53,338 - drone - INFO - Efetuando captura...
+2022-11-29 14:56:53,339 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:56:53,383 - drone - INFO - Capture took 0.02225208282470703s
+2022-11-29 14:56:53,389 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 14:59:20,358 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 28 time(s)
+2022-11-29 14:59:27,332 - drone - INFO - Efetuando captura...
+2022-11-29 14:59:27,333 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 14:59:27,395 - drone - INFO - Capture took 0.01078033447265625s
+2022-11-29 14:59:27,400 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:00:43,791 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 1 time(s)
+2022-11-29 15:00:51,306 - drone - INFO - Efetuando captura...
+2022-11-29 15:00:51,306 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:00:51,325 - drone - INFO - Capture took 0.0047185420989990234s
+2022-11-29 15:00:51,331 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:01:17,798 - drone - INFO - Efetuando captura...
+2022-11-29 15:01:17,799 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:01:17,833 - drone - INFO - Capture took 0.010086536407470703s
+2022-11-29 15:01:17,841 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:02:23,278 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 10 time(s)
+2022-11-29 15:02:28,357 - drone - INFO - Efetuando captura...
+2022-11-29 15:02:28,358 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:02:28,378 - drone - INFO - Capture took 0.005939006805419922s
+2022-11-29 15:02:28,383 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:02:30,970 - drone - INFO - Efetuando captura...
+2022-11-29 15:02:30,970 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:02:30,995 - drone - INFO - Capture took 0.009179830551147461s
+2022-11-29 15:02:31,003 - drone - INFO - Lectures: {'request_id': '8LY5AYL1JHUGA002', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:03:00,537 - drone - INFO - Efetuando captura...
+2022-11-29 15:03:00,538 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:03:00,561 - drone - INFO - Capture took 0.006646394729614258s
+2022-11-29 15:03:00,572 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:03:11,221 - drone - INFO - Efetuando captura...
+2022-11-29 15:03:11,221 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:03:11,242 - drone - INFO - Capture took 0.006169795989990234s
+2022-11-29 15:03:11,248 - drone - INFO - Lectures: {'request_id': 'ODC6906BQL1BTID3', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:03:32,889 - drone - INFO - Efetuando captura...
+2022-11-29 15:03:32,889 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:03:32,929 - drone - INFO - Capture took 0.0068645477294921875s
+2022-11-29 15:03:32,939 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:03:40,249 - drone - INFO - Efetuando captura...
+2022-11-29 15:03:40,249 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:03:40,269 - drone - INFO - Capture took 0.005454540252685547s
+2022-11-29 15:03:40,275 - drone - INFO - Lectures: {'request_id': 'RP9U26JDZYJ1S72X', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:05:05,103 - drone - INFO - Efetuando captura...
+2022-11-29 15:05:05,104 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:05:05,124 - drone - INFO - Capture took 0.006566286087036133s
+2022-11-29 15:05:05,130 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:05:06,458 - drone - INFO - Efetuando captura...
+2022-11-29 15:05:06,459 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:05:06,496 - drone - INFO - Capture took 0.013946056365966797s
+2022-11-29 15:05:06,504 - drone - INFO - Lectures: {'request_id': 'AEP49PVVS8QXOW3K', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:06:55,651 - drone - INFO - Efetuando captura...
+2022-11-29 15:06:55,651 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:06:55,670 - drone - INFO - Capture took 0.0060787200927734375s
+2022-11-29 15:06:55,676 - drone - INFO - Lectures: {'request_id': '1Z1CRTSRPVKEUWFY', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:10:54,739 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:10:54,740 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 15:10:55,539 - drone - INFO - Successfully connected to camera 0
+2022-11-29 15:10:55,807 - drone - INFO - Efetuando captura...
+2022-11-29 15:10:55,808 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:10:55,957 - drone - INFO - Capture took 0.04464101791381836s
+2022-11-29 15:10:55,962 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:12:27,939 - drone - INFO - Efetuando captura...
+2022-11-29 15:12:27,940 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:12:28,023 - drone - INFO - Capture took 0.043412208557128906s
+2022-11-29 15:12:28,033 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:13:00,075 - drone - INFO - Efetuando captura...
+2022-11-29 15:13:00,076 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:13:00,119 - drone - INFO - Capture took 0.013567924499511719s
+2022-11-29 15:13:00,125 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:27:44,533 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:27:44,641 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 15:27:45,447 - drone - INFO - Successfully connected to camera 0
+2022-11-29 15:28:01,826 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:28:01,932 - drone - INFO - Trying to connect to camera: 1
+2022-11-29 15:28:21,956 - drone - ERROR - [1] Could not connect to camera. Tried 3 time(s)
+2022-11-29 15:28:25,525 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:28:25,637 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 15:28:26,436 - drone - INFO - Successfully connected to camera 0
+2022-11-29 15:28:42,643 - drone - INFO - Efetuando captura...
+2022-11-29 15:28:42,644 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:28:42,867 - drone - INFO - Capture took 0.05367136001586914s
+2022-11-29 15:28:42,874 - drone - INFO - Lectures: {'request_id': 'U2LFD2BZCE7CP9AO', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:28:59,782 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 3 time(s)
+2022-11-29 15:29:04,824 - drone - INFO - Efetuando captura...
+2022-11-29 15:29:04,824 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:29:04,876 - drone - INFO - Capture took 0.027658700942993164s
+2022-11-29 15:29:04,882 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:35:08,872 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:35:08,873 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 15:35:09,675 - drone - INFO - Successfully connected to camera 0
+2022-11-29 15:35:31,323 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:35:31,323 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 15:35:32,005 - drone - INFO - Successfully connected to camera 0
+2022-11-29 15:35:32,036 - drone - INFO - Efetuando captura...
+2022-11-29 15:35:32,036 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:35:32,259 - drone - INFO - Capture took 0.05141258239746094s
+2022-11-29 15:35:32,266 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:35:41,929 - drone - ERROR - Websocket ws://192.168.1.186:8001/capture/ws connection refused. Tried 2 time(s)
+2022-11-29 15:35:46,961 - drone - INFO - Efetuando captura...
+2022-11-29 15:35:46,961 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:35:47,021 - drone - INFO - Capture took 0.033179283142089844s
+2022-11-29 15:35:47,028 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:35:51,469 - drone - INFO - Efetuando captura...
+2022-11-29 15:35:51,469 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:35:51,513 - drone - INFO - Capture took 0.024790048599243164s
+2022-11-29 15:35:51,524 - drone - INFO - Lectures: {'request_id': '9YCR4LAVA468M163', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-11-29 15:36:48,928 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-11-29 15:36:48,929 - drone - INFO - Trying to connect to camera: 0
+2022-11-29 15:36:49,726 - drone - INFO - Successfully connected to camera 0
+2022-11-29 15:36:49,758 - drone - INFO - Efetuando captura...
+2022-11-29 15:36:49,758 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-11-29 15:36:49,922 - drone - INFO - Capture took 0.04719042778015137s
+2022-11-29 15:36:49,928 - drone - INFO - Lectures: {'request_id': 'test', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
+2022-12-01 13:20:21,851 - drone - ERROR - Endpoint http://None:None/subscribe/get/None request has failed. Tried 1 time(s)
+2022-12-15 14:33:48,848 - drone - INFO - DRONE_ID: None, env: /home/pi/drone/.env.drone
+2022-12-15 14:33:49,203 - drone - ERROR - Endpoint http://None:None/subscribe/get/None request has failed. Tried 1 time(s)
+2022-12-15 14:34:37,193 - drone - INFO - DRONE_ID: None, env: /home/pi/drone/.env.drone
+2022-12-15 14:34:37,348 - drone - ERROR - Endpoint http://None:None/subscribe/get/None request has failed. Tried 1 time(s)
+2022-12-15 14:35:04,327 - drone - INFO - DRONE_ID: None, env: /home/pi/drone/.env.drone
+2022-12-15 14:35:04,508 - drone - ERROR - Endpoint http://None:None/subscribe/get/None request has failed. Tried 1 time(s)
+2022-12-15 14:35:45,285 - drone - INFO - DRONE_ID: 1, env: .env.drone
+2022-12-15 14:36:10,588 - drone - ERROR - Endpoint http://192.168.0.54:8001/subscribe/get/1 request has failed. Tried 3 time(s)
+2022-12-15 14:36:38,398 - drone - INFO - DRONE_ID: 1, env: .env.drone
+2022-12-15 14:36:53,637 - drone - ERROR - Endpoint http://192.168.15.26:8001/subscribe/get/1 request has failed. Tried 4 time(s)
+2022-12-15 14:37:02,261 - drone - INFO - DRONE_ID: 1, env: .env.drone
+2022-12-15 14:37:02,459 - drone - INFO - Endpoint response: {'error': False, 'data': {'doca_id': 1, 'camera_uri': '0'}}
+2022-12-15 14:37:02,459 - drone - INFO - Trying to connect to camera: 0
+2022-12-15 14:37:03,397 - drone - INFO - Successfully connected to camera 0
+2022-12-15 14:37:03,398 - drone - INFO - Image shape: (480, 640, 3)
+2022-12-15 14:37:14,033 - drone - INFO - Efetuando captura...
+2022-12-15 14:37:14,033 - drone - INFO - Shape da imagem: (480, 640, 3)
+2022-12-15 14:37:14,462 - drone - INFO - Capture took 0.10798478126525879s
+2022-12-15 14:37:14,482 - drone - INFO - Lectures: {'request_id': 'YBZ7Q6Q2CTP5DKXK17GOUFZZ', 'shape': (480, 640), 'message': 'Sucesso', 'lectures': [], 'error': False}
